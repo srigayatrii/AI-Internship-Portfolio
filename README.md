@@ -34,8 +34,6 @@ The assistant maintains a strict professional persona, follows behavioral constr
 
 ---
 
-test webhook 6
-
 ## Key Learning Outcomes
 
 - Designing structured AI personas
